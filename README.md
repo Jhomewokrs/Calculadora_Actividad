@@ -1,9 +1,9 @@
 # Calculadora_Actividad
 
-#Estudiantes
-#-Yandri Gozalez
-#-Alfonso Gutierrez
-#-Abraham Ortiz
+#Estudiantes:
+Yandri Gozalez
+,Alfonso Gutierrez
+,Abraham Ortiz
 
 
 #Descripcion
