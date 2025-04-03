@@ -14,4 +14,8 @@ El objetivo del programa es proporcionar una calculadora sencilla que permita al
 git config --global user.name "ingresar nombre del usuario"
 git config --global user.email "ingresar correo electronico"
 git config --list
+git add .
+git commit -m "Calculadora"
+git push -u main
+
 
