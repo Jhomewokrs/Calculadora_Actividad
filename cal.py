@@ -1,8 +1,8 @@
 while True: 
        
- variable1= int(input('ingrese un numero'))
+ variable1= float(input('ingrese un numero'))
  print(" ")
- variable2= int(input('ingrese otro numero'))
+ variable2= float(input('ingrese otro numero'))
 
  print(" ")
  print ("+.Suma")
