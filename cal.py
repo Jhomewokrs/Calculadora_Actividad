@@ -43,7 +43,8 @@ while True:
         print("Ok, continuemos.")
  elif op == "no":
         print("Adiós.")
+        break
  else:
         print("Error: Respuesta no válida. Por favor, ingresa 'si' o 'no'.")
-        break
+        
  
